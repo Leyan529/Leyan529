@@ -34,12 +34,15 @@
    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
    ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=FFA518)&nbsp;
-   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+   ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=Anaconda)&nbsp;
+   ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
    ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;   
+   ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp; 
+   ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
    ![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=OpenGL)&nbsp;
    ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
