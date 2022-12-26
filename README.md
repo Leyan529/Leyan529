@@ -47,6 +47,10 @@
    ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
    ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+   ![Cmake](https://img.shields.io/badge/-Cmake-05122A?style=flat&logo=Cmake)&nbsp;
+   ![QMake](https://img.shields.io/badge/-QMake-05122A?style=flat&logo=QMake)&nbsp;
+   ![QT](https://img.shields.io/badge/-QT-05122A?style=flat&logo=QT)&nbsp;
+
    
 ### 💻Coding Activity
   <div align="center">
