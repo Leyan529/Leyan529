@@ -4,6 +4,10 @@
   </div> 
 <!--   <img align="left" src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" width="330px" heigth="206px" /> -->
 
+<img
+  src="https://github.com/Leyan529/<repository-name>/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
   ![](https://visitor-badge.glitch.me/badge?page_id=Leyan529)
